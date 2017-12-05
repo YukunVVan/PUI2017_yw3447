@@ -23,9 +23,13 @@ This is a simple plot and the five lines prefectly show the trend of AIDS cases 
 **IMPROVEMENTS:**
 It would be better to use two more different colors(like green and red) for "Asian" and "Native American". Also, the font size of label and title can be a little bit bigger.
 
+Hispanic and Asians are indistinguishable for clor blind people, and so are Black and Native American lines
+
 - Honesty
 
-The plot seems to show the real trend of AIDS cases among different races and there is no obvious outliers or errors.
+# FBB The plot seems to show the real trend of AIDS cases among different races and there is no obvious outliers or errors.
 
 **IMPROVEMENTS:**
 However it would be better to add the source of data or show the process of data cleaning in order to verify the plot.
+
+9/10 
