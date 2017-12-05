@@ -27,9 +27,10 @@ Hispanic and Asians are indistinguishable for clor blind people, and so are Blac
 
 - Honesty
 
-# FBB The plot seems to show the real trend of AIDS cases among different races and there is no obvious outliers or errors.
+The plot seems to show the real trend of AIDS cases among different races and there is no obvious outliers or errors.
 
 **IMPROVEMENTS:**
 However it would be better to add the source of data or show the process of data cleaning in order to verify the plot.
 
+# FBB ok
 9/10 
