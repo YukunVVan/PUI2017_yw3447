@@ -23,7 +23,7 @@ This is a simple plot and the five lines prefectly show the trend of AIDS cases 
 **IMPROVEMENTS:**
 It would be better to use two more different colors(like green and red) for "Asian" and "Native American". Also, the font size of label and title can be a little bit bigger.
 
-Hispanic and Asians are indistinguishable for clor blind people, and so are Black and Native American lines
+# FBB Hispanic and Asians are indistinguishable for clor blind people, and so are Black and Native American lines
 
 - Honesty
 
