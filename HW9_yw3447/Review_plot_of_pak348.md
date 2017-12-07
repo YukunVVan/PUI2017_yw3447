@@ -25,3 +25,5 @@ The plot seems to show the real data honestly and there is no obvious outliers o
 
 **IMPROVEMENTS:**
 However it would be better to add the source of data and show the process of data cleaning in order to verify the plot.
+
+10/10
